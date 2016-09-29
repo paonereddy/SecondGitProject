@@ -1,1 +1,1 @@
-# SecondGitProject
+# GitProject
